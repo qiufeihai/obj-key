@@ -1,0 +1,27 @@
+{
+  "name": "obj-key",
+  "version": "1.0.0",
+  "description": "转换一个对象的key值",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiufeihai/obj-key.git"
+  },
+  "keywords": ["decamelize", "camelcase", "key"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiufeihai/obj-key/issues"
+  },
+  "homepage": "https://github.com/qiufeihai/obj-key#readme",
+  "dependencies": {
+    "camelcase": "^5.3.1",
+    "decamelize": "^3.2.0"
+  },
+  "devDependencies": {
+    "power-assert": "^1.6.1"
+  }
+}
